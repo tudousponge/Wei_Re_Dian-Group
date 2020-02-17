@@ -16,6 +16,6 @@
 
 
 
-Further Reading  
+## Further Reading  
 [GitHub glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary#branch)
 
