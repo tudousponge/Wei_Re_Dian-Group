@@ -22,5 +22,6 @@
 
 
 ## Further Reading  
-[GitHub glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary#branch)
+[GitHub glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary#branch)  
+[VS Code version control](https://code.visualstudio.com/docs/editor/versioncontrol)
 
