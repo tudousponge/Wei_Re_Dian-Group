@@ -18,7 +18,7 @@
 1. 在网页中fork需要的库，选择clone，复制URL。
 2. 在VS Code中按ctrl+shift+p，键入git: clone，粘贴刚刚的URL。选择本地根目录的路径。
 3. 修改内容后，在左边version control边栏输入commit。
-4. 点击窗口左下角Synchronize Changes，上传修改。
+4. 点击窗口左下角Synchronize Changes，上传修改。  
 *分享完成！*
 
 
